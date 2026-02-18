@@ -51,10 +51,13 @@
 
 | | |
 |---|---|
+| [**啤酒、裁员、电子烟，和一个终端**](https://theunclej.com/zh/posts/beer-to-bots) | 十八年 HR，五家公司，两次裁员。2024 辞职，用同一套系统思维搭了三个 AI Bot。 |
 | [**一个人，一个终端，三个 AI**](https://theunclej.com/zh/posts/one-person-three-ais) | 从外面看像一家小公司。从里面看，一个人，一个终端。 |
-| [**MARGIN 上架**](https://theunclej.com/zh/posts/margin-launch) | 我不想再骂自己「又忘了」。 |
-| [**Vibe Coding：不是取代，是解放**](https://theunclej.com/zh/posts/vibe-coding) | 20岁学生用AI拿下24.7k星标。你还在质疑？ |
+| [**AI 替我读完了 53 门课**](https://theunclej.com/zh/posts/ai-read-53-courses) | 7 个 Agent，72 小时，53 门 MBA 课蒸馏成 173 个决策工具。 |
+| [**一个下午，从会议录音到可运行项目**](https://theunclej.com/zh/posts/agentic-engineering) | 73 个源文件，40 个 spec，24KB 宪法。工程师的核心能力变了。 |
+| [**AI 时代的狐狸与刺猬**](https://theunclej.com/zh/posts/fox-and-hedgehog) | 好奇心不再是负担，而是杠杆。这不是转行，是主权回收。 |
 | [**做产品前，我先读一遍这十条**](https://theunclej.com/zh/posts/product-ten-rules) | 不是方法论，是止血帖。 |
+| [**FileFlow 上架 — 致敬这个美好的时代**](https://theunclej.com/zh/posts/fileflow-launch) | 我不是在做产品，我是在证明一个人也可以把世界改成自己想要的样子。 |
 
 <br>
 
