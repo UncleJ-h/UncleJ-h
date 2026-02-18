@@ -2,11 +2,103 @@
 
 # J
 
-**看清 AI，看透商业。**
+**See AI clearly. See business through.**
 
 [![X](https://img.shields.io/badge/@UncleJAI-000?style=flat-square&logo=x&logoColor=white)](https://x.com/UncleJAI)
 [![Web](https://img.shields.io/badge/theunclej.com-000?style=flat-square&logo=safari&logoColor=white)](https://theunclej.com)
 [![Email](https://img.shields.io/badge/unclej@theunclej.com-000?style=flat-square&logo=gmail&logoColor=white)](mailto:unclej@theunclej.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Code is AI's job.*
+*Product is mine.*
+*I do one thing: Decide.*
+
+</div>
+
+<br>
+
+> **10 Years HR** — Someone else's blade for a decade. Now, I hold the knife.
+>
+> **Code** — Plenty of people write code. Few know what to write.
+>
+> **AI** — Same knife. Some chop vegetables, some go to war.
+>
+> **Talk** — Politeness is default. Truth? You gotta earn it.
+
+<br>
+
+## AI that solves real problems
+
+Not toys. Weapons.
+
+| | Product | | |
+|:---:|------|------|:---:|
+| 📖 | **One Page** | Flip one. Find calm. | [→](https://onepage.theunclej.com) |
+| 📅 | **MARGIN** | Never forget again. | [→](https://margin.theunclej.com) |
+| 📂 | **FileFlow** | Organize files without breaking things. | [→](https://fileflow.theunclej.com) |
+| ⚖️ | **Fairmate** | They have legal. You have us. | [→](https://fairmate.theunclej.com) |
+| 🧾 | **ReceiptTime** | Receipts in. Spreadsheet out. Done. | `Soon` |
+| 🔭 | **TrendScope** | Trends. Sentiment. Action. | `Invite` |
+
+<br>
+
+## Writing
+
+| | |
+|---|---|
+| [**From Beer to Bots**](https://theunclej.com/posts/beer-to-bots) | 20 years from organizing sales rallies for 240 beer reps to submitting an iOS app at 11pm with three AI agents. |
+| [**How I Use Claude Code — Not as an Engineer, but as a Commander**](https://theunclej.com/posts/one-person-three-ais) | From the outside it looks like a small company. From the inside — one person, one terminal. |
+| [**AI Read 53 Courses for Me**](https://theunclej.com/posts/ai-read-53-courses) | 7 Agents, 72 hours, 53 MBA courses distilled into 173 decision tools. |
+| [**From a Meeting Recording to a Running Project**](https://theunclej.com/posts/agentic-engineering) | 73 source files, 40 specs, 24KB constitution. In one afternoon. |
+| [**The Fox and the Hedgehog in the Age of AI**](https://theunclej.com/posts/fox-and-hedgehog) | Curiosity is no longer a burden — it's leverage. This isn't a career change. It's sovereignty reclamation. |
+| [**Ten Rules I Read Before Building Any Product**](https://theunclej.com/posts/product-ten-rules) | Not methodology — bandages. |
+| [**FileFlow Launch — A Tribute to This Beautiful Era**](https://theunclej.com/posts/fileflow-launch) | I'm not building a product. I'm proving one person can reshape the world. |
+
+<br>
+
+## Open Source
+
+| Repo | What |
+|------|------|
+| [**claude-relay-service**](https://github.com/UncleJ-h/claude-relay-service) | Self-hosted Claude Code relay — multi-model unified access, cost sharing |
+| [**obsidian-skills**](https://github.com/UncleJ-h/obsidian-skills) | Obsidian agent skills — Markdown / Canvas / Bases / CLI |
+| [**obsidian-jdex-steward**](https://github.com/UncleJ-h/obsidian-jdex-steward) | Johnny.Decimal structure management for Obsidian vaults |
+| [**HookPrompt**](https://github.com/UncleJ-h/HookPrompt) | Auto-optimize prompts via Claude Code Hook |
+| [**rss-daily-digest**](https://github.com/UncleJ-h/rss-daily-digest) | RSS daily picks → Obsidian inbox |
+
+<br>
+
+<div align="center">
+
+---
+
+**Let's talk.**
+
+AI consulting · Product collab · Just connect
+
+[![X](https://img.shields.io/badge/@UncleJAI-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UncleJAI)
+&nbsp;&nbsp;
+[![Web](https://img.shields.io/badge/theunclej.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://theunclej.com)
+
+</div>
+
+---
+
+<details>
+<summary><b>🇨🇳 中文版</b></summary>
+
+<br>
+
+<div align="center">
+
+### J
+
+**看清 AI，看透商业。**
 
 </div>
 
@@ -32,7 +124,7 @@
 
 <br>
 
-## 用 AI 解决真问题
+### 用 AI 解决真问题
 
 不做玩具，只做武器。
 
@@ -47,7 +139,7 @@
 
 <br>
 
-## 写过的东西
+### 写过的东西
 
 | | |
 |---|---|
@@ -61,9 +153,9 @@
 
 <br>
 
-## Open Source
+### 开源项目
 
-| Repo | What |
+| 项目 | 说明 |
 |------|------|
 | [**claude-relay-service**](https://github.com/UncleJ-h/claude-relay-service) | 自建 Claude Code 中转服务，多模型统一接入，支持拼车共享 |
 | [**obsidian-skills**](https://github.com/UncleJ-h/obsidian-skills) | Obsidian agent skills 合集 — Markdown / Canvas / Bases / CLI |
@@ -86,3 +178,5 @@ AI 咨询 · 产品合作 · 交个朋友
 [![Web](https://img.shields.io/badge/theunclej.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://theunclej.com)
 
 </div>
+
+</details>
